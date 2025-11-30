@@ -2,13 +2,9 @@
     "name": "test-pxt-dep",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "custom.ts"
     ],
